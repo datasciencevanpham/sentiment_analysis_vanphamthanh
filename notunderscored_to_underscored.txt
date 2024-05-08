@@ -1,0 +1,335 @@
+bất ngờ:bất_ngờ
+ôi trời:ôi_trời
+gửi sản phẩm:gửi_sản_phẩm
+vé dịch vụ:vé_dịch_vụ
+chưa chuyên nghiệp:chưa_chuyên_nghiệp
+không chuyên nghiệp:không_chuyên_nghiệp
+shop:cửa_hàng
+hơi giống mô tả:hơi_giống_mô_tả
+sản phẩm dịch vụ:sản_phẩm_dịch_vụ
+sản phẩm:sản_phẩm
+cửa hàng:cửa_hàng
+chất lượng:chất_lượng
+thương hiệu:thương_hiệu
+dịch vụ:dịch_vụ
+phục vụ:phục_vụ
+tư vấn:tư_vấn
+hướng dẫn:hướng_dẫn
+giao hàng:giao_hàng
+đóng gói:đóng_gói
+vận chuyển:vận_chuyển
+thời gian:thời_gian
+xuất sắc:xuất_sắc
+ưng ý:ưng_ý
+tuyệt vời:tuyệt_vời
+hài lòng:hài_lòng
+hiệu quả:hiệu_quả
+cao cấp:cao_cấp
+ấn tượng:ấn_tượng
+giá rẻ:giá_rẻ
+tạm được:tạm_được
+cực kỳ:cực_kỳ
+5 sao:5_sao
+10 điểm:10_điểm
+ok:ổn
+nhanh chóng:nhanh_chóng
+như mong đợi:như_mong_đợi
+kỹ lưỡng:kỹ_lưỡng
+cẩn thận:cẩn_thận
+nhiệt tình:nhiệt_tình
+chuyên nghiệp:chuyên_nghiệp
+thân thiện:thân_thiện
+tận tâm:tận_tâm
+không ổn:không_ổn
+không an toàn:không_an_toàn
+không an tâm:không_an_tâm
+không yên tâm:không_yên_tâm
+chấp nhận:chấp_nhận
+không chấp nhận:không_chấp_nhận
+không vừa:không_vừa
+không hợp:không_hợp
+dễ thương:dễ_thương
+không giống mô tả:không_giống_mô_tả
+gần giống mô tả:gần_giống_mô_tả
+như mô tả:như_mô_tả
+đúng mô tả:đúng_mô_tả
+không đúng:không_đúng
+khác mô tả:khác_mô_tả
+giống mô tả:giống_mô_tả
+đẹp như mô tả:đẹp_như_mô_tả
+gần giống như mô tả:gần_giống_như_mô_tả
+gần giống với mô tả:gần_giống_với_mô_tả
+tốt hơn mong đợi:tốt_hơn_mong_đợi
+không hỗ trợ:không_hỗ_trợ
+không giống nhau:không_giống_nhau
+không như mô tả:không_như_mô_tả
+hoàn toàn khác:hoàn_toàn_khác
+gì kì:gì_kì
+không đẹp:không_đẹp
+cần tốt hơn:cần_tốt_hơn
+hàng giống mẫu:hàng_giống_mẫu
+hợp lý:hợp_lý
+không hợp lý:không_hợp_lý
+thích:thích
+tốt:tốt
+tuyệt hảo:tuyệt_hảo
+đẹp:đẹp
+ổn:ổn
+yêuhài lòng:yêuhài_lòng
+hoàn hảo:hoàn_hảo
+chất lượng tốt:chất_lượng_tốt
+thú vị:thú_vị
+nhanh:nhanh
+tiện lợi:tiện_lợi
+dễ sử dụng:dễ_sử_dụng
+nổi bật:nổi_bật
+tận hưởng:tận_hưởng
+tốn ít thời gian:tốn_ít_thời_gian
+hấp dẫn:hấp_dẫn
+gợi cảm:gợi_cảm
+tươi mới:tươi_mới
+lạ mắt:lạ_mắt
+độc đáo:độc_đáo
+hợp khẩu vị:hợp_khẩu_vị
+rất tốt:rất_tốt
+rất thích:rất_thích
+đáng tin cậy:đáng_tin_cậy
+đẳng cấp:đẳng_cấp
+an tâm:an_tâm
+không thể cưỡng lại:không_thể_cưỡng_lại
+thỏa mãn:thỏa_mãn
+thúc đẩy:thúc_đẩy
+cảm động:cảm_động
+phục vụ tốt:phục_vụ_tốt
+làm hài lòng:làm_hài_lòng
+gây ấn tượng:gây_ấn_tượng
+nổi trội:nổi_trội
+sáng tạo:sáng_tạo
+quý báu:quý_báu
+phù hợp:phù_hợp
+hiếm có:hiếm_có
+cải thiện:cải_thiện
+hoà nhã:hoà_nhã
+chăm chỉ:chăm_chỉ
+vui vẻ:vui_vẻ
+sáng sủa:sáng_sủa
+hào hứng:hào_hứng
+đam mê:đam_mê
+vừa vặn:vừa_vặn
+đáng tiền:đáng_tiền
+đẹp mắt:đẹp_mắt
+giống mẫu:giống_mẫu
+kỹ:kỹ
+đúng:đúng
+cảm ơn:cảm_ơn
+được:được
+kém:kém
+tệ:tệ
+đau:đau
+xấu:xấu
+buồn:buồn
+rối:rối
+thô:thô
+lâu:lâu
+thất vọng:thất_vọng
+dơ:dơ
+bẩn:bẩn
+tối:tối
+chán:chán
+ít:ít
+mờ:mờ
+mỏng:mỏng
+lỏng lẻo:lỏng_lẻo
+khó:khó
+cùi:cùi
+yếu:yếu
+kém chất lượng:kém_chất_lượng
+không thích:không_thích
+không thú vị:không_thú_vị
+không đáng tin cậy:không_đáng_tin_cậy
+không phản hồi:không_phản_hồi
+không phù hợp:không_phù_hợp
+không thân thiện:không_thân_thiện
+không linh hoạt:không_linh_hoạt
+không đáng giá:không_đáng_giá
+không ấn tượng:không_ấn_tượng
+không tốt:không_tốt
+chậm:chậm
+khó khăn:khó_khăn
+phức tạp:phức_tạp
+khó hiểu:khó_hiểu
+khó chịu:khó_chịu
+gây khó dễ:gây_khó_dễ
+rườm rà:rườm_rà
+khó truy cập:khó_truy_cập
+thất bại:thất_bại
+tồi tệ:tồi_tệ
+khó xử:khó_xử
+không thể chấp nhận:không_thể_chấp_nhận
+không rõ ràng:không_rõ_ràng
+không chắc chắn:không_chắc_chắn
+rối rắm:rối_rắm
+không tiện lợi:không_tiện_lợi
+không đáng tiền:không_đáng_tiền
+chưa đẹp:chưa_đẹp
+không nhiệt tình:không_nhiệt_tình
+không phải:không_phải
+không rõ:không_rõ
+gian_dối:gian_dối
+bố thí:bố_thí
+rách mờ:rách_mờ
+rách:rách
+bớt xén:bớt_xén
+ba trợn ba trạo:ba_trợn_ba_trạo
+khốn nạn:khốn_nạn
+mất dạy:mất_dạy
+rất xấu:rất_xấu
+rất bẩn:rất_bẩn
+rất tệ:rất_tệ
+hư:hư
+cũ:cũ
+không có:không_có
+chỉ giống mô tả:chỉ_giống_mô_tả
+hoàn toàn khác mô tả:hoàn_toàn_khác_mô_tả
+tức:tức
+giận:giận
+tức giận:tức_giận
+không dùng được:không_dùng_được
+lừa gạt:lừa_gạt
+dối trá:dối_trá
+dởm:dởm
+hàng rẻ tiền:hàng_rẻ_tiền
+chưa thích:chưa_thích
+chưa tốt:chưa_tốt
+không xuất sắc:không_xuất_sắc
+chưa xuất sắc:chưa_xuất_sắc
+không tuyệt vời:không_tuyệt_vời
+chưa tuyệt vời:chưa_tuyệt_vời
+không tuyệt hảo:không_tuyệt_hảo
+chưa tuyệt hảo:chưa_tuyệt_hảo
+chưa ổn:chưa_ổn
+không yêuhài lòng:không_yêuhài_lòng
+chưa yêuhài lòng:chưa_yêuhài_lòng
+không ưng ý:không_ưng_ý
+chưa ưng ý:chưa_ưng_ý
+không hoàn hảo:không_hoàn_hảo
+chưa hoàn hảo:chưa_hoàn_hảo
+không chất lượng tốt:không_chất_lượng_tốt
+chưa chất lượng tốt:chưa_chất_lượng_tốt
+chưa thú vị:chưa_thú_vị
+không nhanh:không_nhanh
+chưa nhanh:chưa_nhanh
+chưa tiện lợi:chưa_tiện_lợi
+không dễ sử dụng:không_dễ_sử_dụng
+chưa dễ sử dụng:chưa_dễ_sử_dụng
+không hiệu quả:không_hiệu_quả
+chưa hiệu quả:chưa_hiệu_quả
+chưa ấn tượng:chưa_ấn_tượng
+không nổi bật:không_nổi_bật
+chưa nổi bật:chưa_nổi_bật
+không tận hưởng:không_tận_hưởng
+chưa tận hưởng:chưa_tận_hưởng
+không tốn ít thời gian:không_tốn_ít_thời_gian
+chưa tốn ít thời gian:chưa_tốn_ít_thời_gian
+chưa thân thiện:chưa_thân_thiện
+không hấp dẫn:không_hấp_dẫn
+chưa hấp dẫn:chưa_hấp_dẫn
+không gợi cảm:không_gợi_cảm
+chưa gợi cảm:chưa_gợi_cảm
+không tươi mới:không_tươi_mới
+chưa tươi mới:chưa_tươi_mới
+không lạ mắt:không_lạ_mắt
+chưa lạ mắt:chưa_lạ_mắt
+không cao cấp:không_cao_cấp
+chưa cao cấp:chưa_cao_cấp
+không độc đáo:không_độc_đáo
+chưa độc đáo:chưa_độc_đáo
+không hợp khẩu vị:không_hợp_khẩu_vị
+chưa hợp khẩu vị:chưa_hợp_khẩu_vị
+không rất tốt:không_rất_tốt
+chưa rất tốt:chưa_rất_tốt
+không rất thích:không_rất_thích
+chưa rất thích:chưa_rất_thích
+không tận tâm:không_tận_tâm
+chưa tận tâm:chưa_tận_tâm
+chưa đáng tin cậy:chưa_đáng_tin_cậy
+không đẳng cấp:không_đẳng_cấp
+chưa đẳng cấp:chưa_đẳng_cấp
+chưa an tâm:chưa_an_tâm
+không không thể cưỡng lại:không_không_thể_cưỡng_lại
+chưa không thể cưỡng lại:chưa_không_thể_cưỡng_lại
+không thỏa mãn:không_thỏa_mãn
+chưa thỏa mãn:chưa_thỏa_mãn
+không thúc đẩy:không_thúc_đẩy
+chưa thúc đẩy:chưa_thúc_đẩy
+không cảm động:không_cảm_động
+chưa cảm động:chưa_cảm_động
+không phục vụ tốt:không_phục_vụ_tốt
+chưa phục vụ tốt:chưa_phục_vụ_tốt
+không làm hài lòng:không_làm_hài_lòng
+chưa làm hài lòng:chưa_làm_hài_lòng
+không gây ấn tượng:không_gây_ấn_tượng
+chưa gây ấn tượng:chưa_gây_ấn_tượng
+không nổi trội:không_nổi_trội
+chưa nổi trội:chưa_nổi_trội
+không sáng tạo:không_sáng_tạo
+chưa sáng tạo:chưa_sáng_tạo
+không quý báu:không_quý_báu
+chưa quý báu:chưa_quý_báu
+chưa phù hợp:chưa_phù_hợp
+không hiếm có:không_hiếm_có
+chưa hiếm có:chưa_hiếm_có
+không cải thiện:không_cải_thiện
+chưa cải thiện:chưa_cải_thiện
+không hoà nhã:không_hoà_nhã
+chưa hoà nhã:chưa_hoà_nhã
+không chăm chỉ:không_chăm_chỉ
+chưa chăm chỉ:chưa_chăm_chỉ
+không cẩn thận:không_cẩn_thận
+chưa cẩn thận:chưa_cẩn_thận
+không vui vẻ:không_vui_vẻ
+chưa vui vẻ:chưa_vui_vẻ
+không sáng sủa:không_sáng_sủa
+chưa sáng sủa:chưa_sáng_sủa
+không hào hứng:không_hào_hứng
+chưa hào hứng:chưa_hào_hứng
+không đam mê:không_đam_mê
+chưa đam mê:chưa_đam_mê
+không vừa vặn:không_vừa_vặn
+chưa vừa vặn:chưa_vừa_vặn
+chưa đáng tiền:chưa_đáng_tiền
+không 5 sao:không_5_sao
+chưa 5 sao:chưa_5_sao
+không 10 điểm:không_10_điểm
+chưa 10 điểm:chưa_10_điểm
+không đẹp mắt:không_đẹp_mắt
+chưa đẹp mắt:chưa_đẹp_mắt
+không giá rẻ:không_giá_rẻ
+chưa giá rẻ:chưa_giá_rẻ
+không nhanh chóng:không_nhanh_chóng
+chưa nhanh chóng:chưa_nhanh_chóng
+không như mong đợi:không_như_mong_đợi
+chưa như mong đợi:chưa_như_mong_đợi
+không kỹ lưỡng:không_kỹ_lưỡng
+chưa kỹ lưỡng:chưa_kỹ_lưỡng
+chưa nhiệt tình:chưa_nhiệt_tình
+chưa như mô tả:chưa_như_mô_tả
+không đúng mô tả:không_đúng_mô_tả
+chưa đúng mô tả:chưa_đúng_mô_tả
+chưa giống mô tả:chưa_giống_mô_tả
+không đẹp như mô tả:không_đẹp_như_mô_tả
+chưa đẹp như mô tả:chưa_đẹp_như_mô_tả
+không tốt hơn mong đợi:không_tốt_hơn_mong_đợi
+chưa tốt hơn mong đợi:chưa_tốt_hơn_mong_đợi
+không giống mẫu:không_giống_mẫu
+chưa giống mẫu:chưa_giống_mẫu
+chưa hợp lý:chưa_hợp_lý
+không hàng giống mẫu:không_hàng_giống_mẫu
+chưa hàng giống mẫu:chưa_hàng_giống_mẫu
+không kỹ:không_kỹ
+chưa kỹ:chưa_kỹ
+chưa đúng:chưa_đúng
+không cảm ơn:không_cảm_ơn
+chưa cảm ơn:chưa_cảm_ơn
+không được:không_được
+chưa được:chưa_được

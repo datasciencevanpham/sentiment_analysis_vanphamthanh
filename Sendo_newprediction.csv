@@ -1,0 +1,501 @@
+product_id,customer_id,full_name,created_time,rating,content
+10119100,trang,trang,09:27 | 08/05/2021,5,
+10119100,NguyenCatTuong,Nguyễn Cát Tường,20:22 | 21/12/2018,4,Shop phục vụ khá tốt.
+10119100,VuPhuong,Vũ Phương,15:00 | 10/12/2018,3,Sản phẩm gần giống mô tả
+10119490,hoangthisuong,hoàng thị sương,22:43 | 06/03/2022,5,
+10119490,DAITRANG,ĐÀI TRANG,12:22 | 02/12/2021,5,
+10119490,lienla,liên la,16:43 | 06/02/2021,5,Giao hàng nhanh bất ngờ.
+10119490,DoanHanh,Đoàn Hạnh,22:06 | 19/07/2020,4,Sản phẩm/dịch vụ giống mô tả.
+10119490,Phamthuhoai,Phạm thu hoài,11:57 | 26/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+10119490,BuiKhai,Bui Khai,19:34 | 13/12/2018,5,"Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+10119490,TuyetAnh,Tuyết Ánh,21:12 | 03/12/2018,4,
+10119490,ngocdung,ngọc dung,15:42 | 06/11/2018,5,Sản phẩm tốt vượt mong đợi
+10119490,TuyetAnh,Tuyết Ánh,21:41 | 04/11/2018,4,Sản phẩm đúng mô tả
+10119490,ZinVan,Zin Vân,15:54 | 21/10/2018,5,Hài lòng
+10119525,Nga,Nga,18:32 | 05/08/2019,5,sản phẩm giao hàng nhanh chóng. đóng gói chưa đc kĩ. giá cả tốt. sẽ ủng hộ lần sau
+10119525,Danhgiaandanh,Đánh giá ẩn danh,19:36 | 15/11/2021,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+10119525,Trang,Trang,10:56 | 20/01/2021,5,
+10119525,MaiLamDieu,Mai Lâm Điều,17:13 | 27/05/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+10119525,thanhnguyenthanhnguyen,thanhnguyen thanhnguyen,08:13 | 24/10/2019,4,
+10119525,MinhLy,Minh Lý,20:36 | 03/10/2018,5,Sản phẩm tốt vượt mong đợi
+10119525,vanluxubu,van lu xu bu,14:12 | 18/09/2018,5,Sản phẩm tốt vượt mong đợi
+10119525,MyLe,My Lê,20:27 | 12/09/2018,4,Sản phẩm đúng mô tả
+10119525,TruongThiHoa,Trương Thị Hoa,06:44 | 16/08/2018,5,Sản phẩm tốt vượt mong đợi
+10311174,TranthiDo,Trần thị Đỗ,15:32 | 19/10/2020,5,Chất lượng tuyệt vời.
+10311174,DoHien,Đỗ Hiền,14:57 | 20/12/2018,5,
+10311174,LehaiQuyen,Lê hải Quyên,06:55 | 17/10/2018,5,Sản phẩm tốt vượt mong đợi
+10313095,DucLe,Duc Le,11:49 | 16/05/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. lưu ý giờ giao hàng khi khách hàng yêu cầu!
+10313095,ThuyPham,Thuỷ Phạm,22:50 | 22/02/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+10313095,DucLe,Duc Le,09:14 | 01/06/2019,5,Sản phẩm tốt !
+10313095,nguyenThu,nguyen Thu,16:36 | 27/04/2019,5,
+10708237,hien,hiền,20:15 | 28/06/2019,5,đóng góp kĩ. giao hàng nhanh
+10708237,PhongAnKy,Phòng An Kỳ,12:11 | 30/03/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+10708237,HoaNguyenThi,Hoa Nguyễn Thị,19:03 | 29/07/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+10708237,ThanhNgoc,Thanh Ngọc,20:18 | 26/05/2020,5,
+10708237,LuuHien,Lưu Hiền,22:13 | 28/04/2020,5,
+10708237,LeTanPhat,Lê Tấn Phát,12:53 | 24/08/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+10708237,VuNgocTien,Vũ Ngọc Tiến,18:00 | 27/07/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+10708237,quyennguyen,quyên nguyễn,01:17 | 30/06/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+10708237,phamvantru,phamvantru,12:40 | 04/05/2019,5,
+10708237,phamvantru,phamvantru,20:27 | 16/12/2018,5,
+115072976,PhamxuanMay,Phạm xuân Mây,11:31 | 16/08/2023,5,Đẹp như mô tả. Chất lượng tuyệt vời.
+115072976,phamthihongcam,phạm thị hồng cẩm,10:35 | 26/08/2023,5,
+115072976,CkPhong,Ck Phong,17:16 | 25/08/2023,5,
+115072976,NgocmyLe,Ngocmy Lê,20:09 | 14/08/2023,5,
+115073511,KieuNguyenThiThuy,Kiều Nguyễn Thị Thúy,12:01 | 19/08/2023,5,
+11584817,NguyenChiThanh,Nguyen Chi Thanh,12:11 | 28/10/2020,5,Đẹp như mô tả. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ.
+11584817,BacGio,Bấc Gió,09:27 | 31/05/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh."
+11584817,ThuyVy,Thúy Vy,10:03 | 02/04/2019,4,Sản phẩm/dịch vụ giống mô tả. Gửi sản phẩm/vé dịch vụ nhanh.
+11638258,HUYNHTHAONGUYEN<null>,HUỲNH THẢO NGUYÊN <null>,19:48 | 01/12/2018,2,"Sản phẩm hơi khác mô tả. Mua 11 loc may mà trả đuọc 3.Giấy 1 lớp thì nhiều 4 lớp ít thấy, bong rời, rách , bẩn, nhận 8 lốc mà khui 4 loc xem da như thế này, đã được đền trả 30k nên cho qua. Không giám ham rẻ ."
+11638258,daotrongtuyen,dao trong tuyen,12:17 | 30/11/2018,1,sản phẩm giấy lót xu này giống của hiền trang loại này không có chữ của hiền trang in trên mép miếng lót hàng này là hàng nhái hai hình túi chữ đã thấy khác nhau hoàn toàn hình ảnh 1 là mới mua còn hình 2 là mua đã dùng hết tóm lại là hàng nhái
+11638258,N.DungNguyen,N.Dung Nguyễn,19:12 | 16/06/2021,4,Mình mua ở ngoài nhưng chất lượng ko thế này đâu. Đắt hơn thật nhưng đúng là tiền nào của nấy các mẹ nhé
+11638258,hoangha,hoàng hà,12:26 | 08/03/2021,5,shop nhiệt tình.. giao hàng nhanh sp tốt giá lại rẻ ..mình mua 5 bịch lại còn dk Shop tặng thêm cho 3 gói nhỏ nữa ..cảm ơn Shop nhiều
+11638258,NguyenTu,Nguyen Tu,15:20 | 20/02/2019,1,Thái độ phục vụ của Shop rất kém/Shop không hỗ trợ sử dụng dịch vụ. Thái độ như bọn vô học Hối hận khi lỡ lấy hàng của bọn mày
+11638258,PhucMediaThien,Phúc Media Thiên,01:19 | 05/12/2018,5,muốn mua thêm mà không biết shop còn sale giá như trên k ạ
+11638258,ThaoMyHuynh,Thảo My Huỳnh,17:41 | 22/11/2018,3,ta lót mình đặt 2 gói. số lươnhj là 200 miếng mà thiếu 15 miếng. còn khăn giấy ghi số lượng 300 tờ mà 1 bi khoang 135 tờ thôi. chưa đc 1 nữa
+11638258,NguyenThimyHanh,Nguyễn Thị mỹ Hạnh,14:39 | 04/11/2018,1,"Giấy chất lượng kém...., đã từng mua giấy hiền trang, nhưng khi nhận sản phẩm của Shop này... ôi thôi , giấy thì dơ, mỏng manh, bao vì thì nhái hiền trang cũng mong nốt,giấy k đủ 300 tờ, đếm thấy có 135 tờ,gian dối hết sức, định tính mua 10 gói nhưng mua thử 4 gói xem sao may k thì ôm cục tức rồi ????☹️☹️☹️☹️☹️☹️"
+11638258,NGUYENTHIHOANGOANH,NGUYỄN THỊ HOÀNG OANH,11:19 | 12/08/2019,3,miếng lót qúa tệ. kít k dính lại với nhau. chưa dùng mà đã bị hở lộ lớp giấy phía trong
+11638258,huongtranthi,hương trân thi,09:53 | 02/11/2018,5,sp tot.nhung k dung so luong nhu ban dau.35k gom 100 tam.ma luk nhan hang co 90 tam
+11865199,DinhHaNgoc,Dinh Ha Ngoc,09:24 | 04/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. tốt"
+11865199,KhamLu,Kham Lu,14:18 | 24/09/2021,5,Chất lượng tuyệt vời.
+11865199,trinhkietbinh,trinhkietbinh,08:39 | 19/08/2021,5,Giá tốt.
+11865199,tin,tin,15:58 | 25/05/2021,5,
+11865199,thomnguyen,thơm nguyễn,20:13 | 17/05/2021,5,
+11865199,doankimphuong,doan kim phuong,16:47 | 21/11/2019,5,
+11865199,KhanhVoXuan,Khanh Võ Xuân,09:57 | 17/02/2019,5,
+11865199,KHANHVO,KHANH VO,10:03 | 16/02/2019,5,
+11865199,janeTran,jane Tran,19:41 | 26/01/2019,5,
+11865199,NguyenNgoc,Nguyen Ngoc,19:51 | 25/01/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+12149448,1***tu,1*** tư,21:54 | 13/07/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời."
+12149644,BuiHuu,Bui Hữu,07:29 | 13/05/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop phục vụ khá tốt. shop giao hang dung han. tu van nhiệt tình
+12149644,NhiepHang,Nhiếp Hằng,15:12 | 20/12/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt.
+12149644,TrangLeHuyen,Trang Lê Huyền,20:57 | 09/06/2019,4,
+12535282,DangPhuong,Đặng Phương,12:24 | 14/12/2020,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ. Hàng đúng với mô tả, phù hợp giá tiền, giao hàng nhanh"
+12535282,QuyLe,Quy Le,21:27 | 07/02/2020,5,"Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. giao hang nhanh. khăn ko đúng số lượng shop nó"
+12535282,hienChauthi,hiền Châu thị,21:54 | 08/05/2022,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Giấy dùng OK a"
+12535282,NhamBlackTrangchjp,Nhâm Black Trang chjp,20:44 | 19/10/2019,5,hàng đẹp giấy trắng có tem chống giả lại được shop Tặng thêm đồ chúc Shop buôn may bán đắt nếu có lần sau em sẽ sẽ ủng hộ tiếp
+12535282,LanHoang,Lan Hoang,17:24 | 23/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. rất ok"
+12535282,ngocthao,ngoc thao,20:19 | 18/09/2019,5,"giao hàng nhanh, chủ shop nhiệt tình tư vấn cẩn thận. rất hài lòng"
+12535282,gau3088meo,gấu 3088 mèo,06:46 | 04/07/2019,5,"shop dán băng keo lên sp nên tháo ra bị rách bọc rồi, nhưng vẫn cho 5*"
+12535282,vuthitam,vũ thị tấm,15:39 | 29/05/2020,5,chất lượng sản phẩm tốt giấy dai nhưng túi nhỏ
+12535282,BuiThiDao,Bùi Thị Đào,17:51 | 28/09/2019,5,Gửi sản phẩm/vé dịch vụ nhanh. sản phẩm giống mô tả
+12535282,ThuyTran,Thuy Tran,13:28 | 14/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+12645339,BaoNguyen,Bao Nguyên,15:54 | 01/09/2021,5,
+12645339,loctran,loctran,15:55 | 12/07/2021,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt.
+12645339,ThuHangNguyenThi,Thu Hang Nguyen Thi,18:59 | 07/07/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt."
+12645339,ThuHangNguyenThi,Thu Hang Nguyen Thi,19:47 | 18/06/2021,5,
+12645339,DinhDung,Đinh Dung,12:38 | 24/05/2021,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Giá tốt.
+12645339,chaunguyenbao,châu nguyễn bảo,17:57 | 07/05/2021,4,tạm ổn
+12645339,DinhDung,Đinh Dung,17:08 | 19/04/2021,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Giá tốt.
+12645339,honghuynh,hồng huỳnh,21:01 | 13/01/2021,5,
+12645339,DiemDuongThanh,Diem Duong Thanh,07:51 | 13/08/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời."
+12645339,DiemDuongThanh,Diem Duong Thanh,22:31 | 15/07/2020,5,Đóng gói kỹ lưỡng. Chất lượng tuyệt vời.
+12710684,Thanh,Thanh,09:56 | 21/10/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. dung hinh anh quang cao,San Pham tot,dong goi ok"
+12710684,ThanhHuynh,Thanh Huynh,14:17 | 04/03/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. giá tốt"
+12710684,Lethikimthanh,Le thi kim thanh,18:26 | 18/10/2021,5,
+12710684,NhiTran,Nhi Tran,11:58 | 01/10/2021,5,
+12710684,MaiGiang,Mai Giang,10:52 | 15/03/2021,5,Đóng gói kỹ lưỡng. Giao hàng nhanh bất ngờ.
+12710684,VOTHIMYTRINH,VÕ THỊ MỸ TRINH,12:23 | 25/11/2020,3,Đóng gói kỹ.
+12710684,NguyenThiVan,Nguyễn Thị Vân,17:12 | 29/10/2020,5,Giao hàng nhanh bất ngờ.
+12710684,DuongAiLien,Dương Ái Liên,10:51 | 26/05/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt.
+12710684,DuongAiLien,Dương Ái Liên,22:49 | 13/05/2020,5,
+12710684,DuongAiLien,Dương Ái Liên,22:49 | 13/05/2020,5,
+12795859,PhamthidiemTHUY,Phamthidiem THUY,20:56 | 24/03/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. sản phẩm ok,check mã vạch được.giá rẻ mọi người nên mua."
+12795859,PhamMinh,Pham Minh,10:22 | 27/04/2019,5,hàng tốt shop phục vụ tốt giao hàng nhanh
+12795859,Huyen,Huyền,22:51 | 22/05/2020,5,
+12795859,UyenCoiUyencoi,Uyên Còi Uyên còi,06:47 | 11/05/2020,5,
+12795859,ducle,đức lê,13:10 | 20/11/2019,5,
+12795859,linhchaunguyen,linh châu nguyễn,15:26 | 28/12/2018,5,
+12947433,MyDuyen,My Duyen,11:01 | 15/01/2021,5,"giá ok, rất tiện lợi khi sử dụng nhé!"
+12947433,hongchauthianh,hồng châu thị ánh,14:00 | 06/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+12947433,duyenduyen,duyen duyen,20:41 | 17/05/2021,3,Ko du 300 to nhung da nhieu hon shop khac
+12947433,NganKimPham,Ngan Kim Pham,09:36 | 05/06/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+12947433,VoTrangThao,VoTrangThao,10:43 | 22/05/2021,5,
+12947433,NgoHuuNhatTruong,Ngô Hữu Nhật Trường,22:43 | 19/05/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+12947433,NgoHuuNhatTruong,Ngô Hữu Nhật Trường,22:42 | 19/05/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+12947433,LyNhien,Lý Nhiên,17:34 | 20/01/2020,5,
+12947433,huynhmaivo91@gmail.com,huynhmaivo91@gmail.com,20:07 | 11/01/2020,5,
+12947433,ThaoThao,Thảo Thảo,23:33 | 06/01/2020,5,
+13182870,khoatan,khoa tân,12:29 | 24/03/2021,5,
+13182870,nhancao,nhân cao,21:28 | 22/03/2021,5,
+13182870,NgocKhang,Ngọc Khang,19:47 | 06/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+13182870,LanTrinh,Lan Trinh,21:30 | 24/04/2019,5,
+13182870,thithi,thithi,13:46 | 10/04/2019,5,"Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13182870,LinhDu,Linh Dũ,12:01 | 13/03/2019,5,
+13182870,TRANNGUYENBANGDUONG,TRẦN NGUYỄN BĂNG DƯƠNG,14:02 | 26/02/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+13298214,NguyenTienHung,Nguyễn Tiến Hưng,22:57 | 06/03/2022,5,Đẹp như mô tả. Giá tốt.
+13298214,TranVanTuan,Trần Văn Tuấn,21:01 | 08/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13298214,NguyenThiHoa,Nguyễn Thị Hoà,08:25 | 08/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13298214,huongtruongthi,hương trương thị,11:24 | 07/05/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+13298214,QuocDung,Quốc Dũng,12:29 | 08/01/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13430469,NguyenThuy,Nguyễn Thủy,13:43 | 22/01/2019,2,giao hàng quá lâu. gần 10 ngày mới có hàng. thực sự nay ship gọi giao hàng đã hủy k nhận đơn nhưng r gọi lại cho ship vì nghĩ mất công shop vs ship
+13430469,yenhoang,yên hoàng,15:32 | 07/01/2019,4,Chất lượng sản phẩm/dịch vụ khá tốt. Đóng gói chắc chắn
+13430469,honguyen,hồ nguyên,15:20 | 28/12/2018,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. tốt
+13430469,tranthithuykieu,tran thi thuy kieu,14:12 | 08/01/2019,5,giao hang rat nhanh
+13430469,nhungDaothi,nhung Dao thi,12:42 | 08/01/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13430469,nguyenhuong,nguyễn huong,13:37 | 25/12/2018,5,Sản phẩm tốt vượt mong đợi
+13430469,NguyenNgocCam,Nguyễn Ngọc Cẩm,08:08 | 02/12/2019,5,
+13430469,HaMy,Hà My,13:45 | 03/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Gửi sản phẩm/vé dịch vụ nhanh."
+13430469,BichXuan,Bích Xuân,15:35 | 28/06/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+13430469,NguyenNhu,Nguyen Nhu,21:44 | 22/06/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13470447,LeDuy,Lê Duy,12:46 | 21/02/2022,5,
+13470447,LeDuy,Lê Duy,21:06 | 07/07/2021,4,Chất lượng tốt. Đúng mô tả.
+13470447,PhamThiAnhDao,Phạm Thị Ánh Đào,20:55 | 19/02/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13592957,DoHang,Do Hang,12:47 | 06/07/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+13592957,Thao,Thảo,21:20 | 25/03/2020,5,
+13592957,HuyenTran,Huyen Tran,21:28 | 30/01/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+13592957,ChiQuynh,Chi Quỳnh,12:07 | 25/01/2019,5,"Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13628046,TrangBean,Trang Bean,21:21 | 18/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. tã dày. thấm hút tốt. có mùi thơm. lần sau sẽ ủng hộ tiếp ???
+13628046,NguyenLily,Nguyễn Lily,15:55 | 27/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Tã xài ok, hình ảnh dễ thương. Thấm hút không bằng huggie, bị ướt mông dù có tã"
+13628046,dolly.trang,dolly.trang,13:55 | 23/01/2019,3,thông tin flash sale là combo 2 bịch nhưng khi giao chỉ có 1 bịch.
+13628046,hatranthu,hà trần thu,21:46 | 13/01/2019,5,lần sau cần để hàng sạch sẽ tốt hơn
+13628046,PhuongTong,Phuong Tong,18:46 | 12/09/2019,4,"Sản phẩm/dịch vụ giống mô tả. Sp đóng gói sơ sài quá, không chắc chắn. giao hàng tạm chấp nhận được. chất lượng thì để xài mới có thể đánh giá được"
+13628046,HuynhThiNgoc,Huỳnh Thị Ngọc,11:41 | 22/11/2019,5,Mình nhận hàng rồi shop ơi. sản phẩm y hình. Shop lấy đúng mẫu luôn. Giao hàng nhanh nữa. cảm ơn shop nhiều
+13628046,TieuPhuong,Tiêu Phượng,08:28 | 19/07/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. sản phẩm và giá tót
+13628046,ThaoThao,Thao Thao,02:52 | 19/01/2019,5,Tạm đc Mua r mới bt ngoài thị trường vấn đag bán vs giá như này ??
+13628046,dangphuonglan,đặng phương lan,10:45 | 15/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+13628046,nguyenthithuylinh,nguyễn thị thùy linh,14:26 | 02/07/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. shiper phục vụ rất dễ thuơng .hàng ok .rất tốt"
+13759361,Hoangthihuong,Hoang thi huong,22:03 | 07/03/2019,5,
+13759361,Vienkeodang,Viên kẹo đắng,20:37 | 28/02/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+13759361,NguyenPhuongDung,Nguyễn Phương Dung,18:14 | 21/02/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+13759361,nguyenthilieu,nguyễn thị liễu,11:53 | 21/02/2019,4,
+13759361,thomluuthi,thơm lưu thị,13:40 | 12/02/2019,5,
+13759361,cungtran,cung tran,14:09 | 18/01/2019,5,
+14098220,phamthithu,phạm thi thu,23:57 | 22/01/2021,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng."
+14098220,HaThi,Hà Thi,15:17 | 13/03/2020,5,Gửi sản phẩm/vé dịch vụ nhanh.
+14098220,VuQuynh,Vu Quynh,14:27 | 11/10/2019,5,
+14098220,NguyenQuocMinh,Nguyen Quoc Minh,08:04 | 18/07/2019,5,
+14098220,TranThithuylinh,Tran Thithuylinh,11:51 | 17/07/2019,3,Giao sản phẩm/vé dịch vụ nhanh.
+14098220,huyenluc,huyên lục,10:48 | 27/06/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+14098220,HoangThiHa,Hoàng Thị Hà,17:03 | 26/01/2019,5,
+14140546,0***,0***,14:05 | 21/06/2020,5,
+14140546,VanAnh,Vân Anh,20:30 | 09/05/2020,5,
+14140546,ThuyNguyen,Thùy Nguyễn,00:00 | 29/03/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+14140546,thuybuithithu,thuy bui thi thu,20:38 | 24/03/2020,5,Gửi sản phẩm/vé dịch vụ nhanh.
+14140546,HuynhTanAn,Huỳnh Tấn Ân,20:22 | 12/02/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+14140546,PhamYen,Phạm Yến,22:09 | 10/02/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+14140546,trucvothithanh,truc vo thi thanh,11:02 | 04/02/2020,5,
+14140546,loanthaithicam,loan thai thi cam,21:41 | 02/01/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+14140546,DoBichNgan,Đỗ Bích Ngân,12:23 | 24/12/2019,5,Sản phẩm tốt vượt mong đợi
+14140546,DoBichNgan,Đỗ Bích Ngân,18:12 | 06/09/2019,5,Sản phẩm tốt vượt mong đợi
+16041499,ngochien,ngoc hien,16:29 | 18/02/2020,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+16041499,NganHuynhNgoc,Ngân Huỳnh Ngọc,21:59 | 11/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16041499,TrinhNguyenThiTuyet,Trinh Nguyễn Thị Tuyết,14:56 | 24/08/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt.
+16074358,NGOTHITHUHIEN,NGO THI THU HIEN,11:45 | 11/03/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. tốt"
+16074358,PhuongNgan,Phương Ngân,14:13 | 29/03/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. 10 goi tặng 2 khăn yếm, mình mua 20 goi cũng có 2 khăn là sao?"
+16074358,Danhgiaandanh,Đánh giá ẩn danh,11:53 | 13/05/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16074358,ThanhBuithi,Thanh Bùi thị,14:16 | 08/07/2019,1,"Sản phẩm/dịch vụ hoàn toàn khác mô tả. đặt màu trắng nhưng laj giao màu tím, giao hàng quá chậm"
+16074358,khienNguyenduy,khiên Nguyễn duy,23:29 | 21/03/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. sp giống Mô ta
+16074358,Nhung,Nhung,19:48 | 27/09/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. sản phẩm ok
+16074358,Hophuongqb2233@gmail.com,Hophuongqb2233@gmail.com,17:05 | 22/05/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+16074358,phamthanhhuyen,phạm thanh huyền,11:54 | 22/05/2020,5,
+16074358,PhanThiThanhNhan,Phan Thị Thanh Nhàn,14:53 | 01/04/2020,5,
+16074358,AnZn,An Zn,12:25 | 31/03/2020,2,
+16205591,Dothingoc,Đỗ thị ngọc,17:45 | 17/08/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16205618,MinhTu,Minh Tú,22:11 | 07/11/2020,5,Đẹp như mô tả.
+16205618,TamPhamthi,Tam Pham thi,20:06 | 16/03/2022,5,Đẹp như mô tả. Giao hàng nhanh bất ngờ.
+16205618,NguyenThiDiep,Nguyễn Thị Diệp,17:55 | 17/11/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16205618,NguyenThiDiep,Nguyễn Thị Diệp,21:27 | 19/10/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16205618,NguyenThiThuHang,Nguyễn Thị Thu Hằng,15:23 | 30/05/2021,5,
+16205618,NguyenThiThuHang,Nguyễn Thị Thu Hằng,06:36 | 29/04/2021,5,
+16205618,TranThiHuyenTrang,Trần Thị Huyền Trang,11:08 | 28/01/2021,5,Đẹp như mô tả.
+16205618,phungcongthanh,phung công thanh,18:22 | 11/01/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả."
+16205618,Nguyenthiha,Nguyễn thị hà,08:19 | 05/01/2021,5,
+16205618,phamnhuQuynh,phạm như Quỳnh,19:07 | 11/12/2020,5,Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ.
+16353813,NguyenThanhHuu,Nguyễn Thanh Hữu,06:51 | 06/06/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. shop tư vấn nhiệt tình pán hàng có tâm sẽ còn ủng hộ nữa"
+16353813,ThanhNguyenHuu,Thanh Nguyễn Hữu,16:26 | 01/06/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. chủ shop dễ thương pán hàng có tâm chất lượng tốt date mới tinh m rất hài lòng và sẽ còn ủng hộ lần sau"
+16353813,phamMinh,pham Minh,17:44 | 31/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Mua sp này ở shop nhiều lần rồi rất OK."
+16353813,TranThiMyAnh,Trần Thị Mỹ Anh,14:12 | 11/04/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16353813,TienVo,Tien Vo,10:17 | 28/01/2021,5,Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ.
+16353813,Haanhshopn,Haanhshopn,17:56 | 22/11/2020,5,Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ.
+16353813,LetrucMai,Le truc Mai,18:52 | 09/03/2020,5,tuyet voi
+16353813,phamMinh,pham Minh,10:50 | 09/03/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Mua shop nhiều lần rồi, hàng rất OK Cảm ơn shop!"
+16353813,NguyenThanhDat,Nguyễn Thành Đạt,13:01 | 05/01/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+16353813,hongnguyenthi,hong nguyen thi,14:27 | 20/12/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt. dong goi hoi tiet kiem rach bao tum lum nhung giao nhanh..
+16425676,Quyenkieu,Quyen kieu,21:53 | 28/08/2019,1,"chất lượng tả gì kì quá, mặc vô dính hột lên bím bé hết à"
+16473106,Gaunguyen,Gấu nguyễn,16:52 | 01/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. hàng ok lắm. đủ cả 10 bịch k thiếu sót.. sẽ ủng hộ shop nhiệt tình"
+16473106,KhoiDuongVan,Khoi Duong Van,00:27 | 11/04/2019,1,gửi mẫu k giong hình chụp
+16515406,NguyenKim,Nguyễn Kim,14:26 | 12/05/2021,4,Hàng giống mô tả có điều đăt màu xanh lá mak giao màu đỏ hết hàng cũng hk nt báo
+16515406,MinhDang,Minh Đặng,21:37 | 12/08/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+16515406,LeDuyen,Le Duyen,10:20 | 24/07/2019,2,Sản phẩm/dịch vụ chỉ hơi giống mô tả. Chất lượng sản phẩm/dịch vụ không tốt.
+16515406,NhubichHo,Nhưbich Hồ,10:33 | 24/06/2019,5,tạm DC. tuy nhiên bô hơi cũ Giong bo da SD roi
+16515406,DuongVanTuan,Đường Văn Tuân,22:57 | 26/05/2021,4,Đúng mô tả.
+16515406,PhungPhamNguyenKim,Phụng Phạm Nguyễn Kim,19:05 | 22/06/2020,5,Đẹp như mô tả.
+16515406,quana,quan a,00:50 | 05/02/2020,4,Gửi sản phẩm/vé dịch vụ nhanh. Shop phục vụ khá tốt.
+16515406,phamtrinh,phạm trinh,17:14 | 14/09/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+16515406,NgocDungTran,Ngọc Dung Trần,14:36 | 13/09/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+16515406,QuocNguyenTan,Quốc Nguyễn Tấn,17:32 | 11/07/2019,4,Sản phẩm/dịch vụ giống mô tả.
+16617669,ToBich,Tô Bich,01:25 | 05/11/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+16617669,ToanNguyenQuoc,Toản Nguyễn Quốc,12:25 | 12/07/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. nhân viên giao hàng rất nhanh và nhiệt tình. đặt 1 ngày là giao. mọi người nên mua.
+16617669,ngocnhieu,ngọc nhiều,22:31 | 21/06/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Chất lượng tuyệt vời. Giá tốt."
+16617669,Thunguyet,Thu nguyệt,14:46 | 25/11/2019,5,"Cũng được để lâu bàn, hay mấy vận dụng linh tinh thì ok với giá, chứ này kg có cơ sở gì hết kg dám chùi miệng, mùi quá nồng"
+16617669,ngoanh,ngô anh,08:50 | 11/08/2023,5,Giá tốt.
+16617669,NgoBaoChau,Ngo BaoChau,21:01 | 30/11/2022,5,Giá tốt.
+16617669,ngoanh,ngô anh,10:01 | 22/08/2022,5,"Chuyên nghiệp, thân thiện."
+16617669,ngoanh,ngô anh,20:42 | 21/07/2022,5,Giá tốt.
+16617669,ngoanh,ngô anh,13:23 | 14/07/2022,5,"Chuyên nghiệp, thân thiện."
+16617669,ngoanh,ngô anh,21:01 | 07/07/2023,5,
+16925848,KMinh,KMinh,07:58 | 05/01/2020,4,trên hình ảnh là mẫu mới.nhưng giao mẫu cũ
+16925848,yenhoangthi,yêń hoàng thi,10:23 | 21/06/2023,5,Chất lượng tuyệt vời.
+16925848,lovelynho,lovely nho,15:22 | 13/11/2020,5,Giao hàng nhanh bất ngờ.
+16925848,giangToNga,giang To Nga,14:16 | 17/10/2020,5,
+16925848,TranXuyen,Trần Xuyến,20:04 | 31/01/2020,5,
+16925848,chihuynhthikim,chi huỳnh thị kim,20:39 | 27/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16925848,Nguyenthithanhthuy,Nguyen thi thanh thuy,17:27 | 24/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16925848,quynhngan8,quynhngan8,15:50 | 19/12/2019,5,
+16925848,phuonglan426Lan,phuonglan426 Lan,23:14 | 09/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16925848,Diep,Diệp,07:18 | 04/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16929082,HIEUDO,HIEU DO,11:07 | 12/04/2019,5,"giá rẻ và chất lượng, shop nhiệt tình"
+16929082,HIEUDO,HIEU DO,11:06 | 20/02/2020,5,"khăn ướt dùng đc cho bé sơ sinh luôn, yên tâm về chất lượng"
+16929082,TranMongThanhTuyen,Trần Mộng Thanh Tuyền,05:57 | 29/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16929082,nuphanthingoc,nu phan thi ngoc,09:59 | 28/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16929082,NguyetLethiminh,Nguyệt Lê thị minh,16:33 | 03/04/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+16929082,daingan,đại ngàn,14:42 | 30/11/2019,5,Gửi sản phẩm/vé dịch vụ nhanh.
+16929082,tangvan,tang van,18:43 | 09/07/2019,5,
+16942798,NguyenKimanh,Nguyen Kim anh,13:07 | 03/08/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. shop giao nhanh . khăn giấy tốt ok . cho shop 5 sao !!!"
+16942798,PhuThuanLe,Phú Thuận Lê,10:21 | 01/06/2019,5,"Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Khăn giấy vuông Hoa Mai 25k/gói, mình nghĩ to lắm. Không ngờ nhỏ xíu à"
+16942798,AnhMai,Ánh Mai,11:14 | 24/03/2021,5,
+16942798,nguyenthanhtung,nguyen thanh tung,13:14 | 06/06/2020,5,
+17020226,meomeomeo,mèo méo meo,10:54 | 26/11/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+17020226,Vugialuong,Vũ gia lương,10:49 | 02/12/2019,3,Giao sản phẩm/vé dịch vụ nhanh. Shop phục vụ chấp nhận được. hàng mỏng quá thật sự không hài lòng
+17020226,thanthivan,thân thị vân,09:09 | 15/12/2022,5,
+17020226,HangNgo,Hang Ngo,04:05 | 25/05/2021,5,
+17020226,VuThuytien,Vu Thuytien,14:24 | 21/09/2019,5,
+17061940,PhanThiTrinh,Phan Thị Trinh,17:34 | 15/08/2020,5,Đẹp như mô tả. Chất lượng tuyệt vời. hài lòng. cám ơn shop nhiều ??
+17061940,KimNganTranThi,Kim Ngan Tran Thi,10:54 | 21/07/2022,1,"sản phẩm dính bụi, mua về phải lau chùi lại,một bên lỗ tay bị mất hình dán"
+17061940,TaiPhamThanh,Tài Phạm Thanh,09:07 | 16/10/2019,5,"Chất lượng sản phẩm/dịch vụ rất tốt. Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. giao hàng ok, tốt trong tầm giá cho shop 5 sao"
+17061940,tranthihong,tranthihong,21:41 | 08/07/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+17061940,KieuTrangDoThi,Kiều Trang ĐỗThị,22:41 | 23/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. sản phẩm ok"
+17061940,DungNgoc,Dung Ngọc,23:21 | 21/06/2019,5,"sản phẩm đẹp, giống mô tả, nhạc hay phù hợp cho các bé"
+17061940,NguyenTien,Nguyễn Tiền,20:33 | 18/05/2022,5,Đẹp như mô tả.
+17061940,minhthu,minh thư,16:19 | 24/09/2019,4,
+17061940,TrongtuyetNguyen,Trongtuyêt Nguyen,14:21 | 03/09/2019,4,Sản phẩm/dịch vụ giống mô tả. Gửi sản phẩm/vé dịch vụ nhanh. Shop phục vụ khá tốt.
+17061940,Nguyenanhphuong,Nguyễn anh phương,20:08 | 12/01/2022,5,Đẹp như mô tả.
+17183490,NguyenLeNgocDiem,Nguyễn Lê Ngọc Diễm,23:06 | 21/02/2023,5,Đẹp như mô tả.
+17183490,NAMTHIENTHU,NAM THIÊN THƯ,15:03 | 25/08/2022,5,Giá tốt.
+17183490,ThuyDuongDo,Thùy Dương Đỗ,22:17 | 06/03/2022,5,
+17183490,vovanthuong,võ văn thương,10:51 | 11/02/2022,5,Đẹp như mô tả. Đóng gói kỹ lưỡng.
+17183490,nguyenmaiphuong,nguyễn mai phương,14:18 | 07/01/2022,5,
+17183490,nguyentuanminh,nguyễn tuấn minh,21:48 | 05/01/2022,5,"Chuyên nghiệp, thân thiện."
+17183490,NguyenThuyNga,Nguyễn Thúy Nga,17:15 | 17/05/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt."
+17183490,Nguyenan,Nguyễn an,18:12 | 02/04/2021,3,Chất lượng ổn.
+17183490,nguyenthu,nguyen thu,13:54 | 03/03/2021,5,
+17183490,haiyennguyenthi,hai yen nguyen thi,13:52 | 21/01/2021,5,Đóng gói kỹ lưỡng. Giao hàng nhanh bất ngờ.
+17314530,CuYen,Cù Yên,17:36 | 14/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. bỉm dùng thích lắm mình sẽ tiếp tục ủng hộ shop"
+17314530,CuYen,Cù Yên,12:08 | 12/03/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. shop rất nhiệt tình mình sẽ tiếp tục ủng hộ shop"
+17314530,CuYen,Cù Yên,22:24 | 07/01/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. đã nhận hàng rất hài lòng sẽ tiếp tục ủng hộ shop"
+17314530,CuYen,Cù Yên,20:11 | 29/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. shop đóng gói rất cẩn thận mình rất hài lòng sẽ ủng hộ tiếp"
+17314530,CuYen,Cù Yên,17:41 | 22/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. mình sẽ tiếp tục ủng hộ shop rất tuyệt vời."
+17314530,kimloan,kim loan,21:04 | 11/10/2019,5,Mình cho 5 sao. bỉm trần thì mình ko đòi hỏi gì. giá hợp lý. bỉm đúng size. mềm mại. rẻ tốt.
+17314530,NgoMyYen,Ngô Mỹ Yến,23:40 | 26/05/2020,5,"thất vọng., đặt xl mà giao xxl , lấy bút lông ghi ở ngoài là xl. lần trước cũng mua hàng xuất Nhật nhưng k phải hiệu này, xài rất ok nên lần này k kiểm tra, chứ k là k nhận. quá thất vọng. mn đừng mua chứ k là thất vọng như mình, chưa kể mới mặc vô 1 tiếng ,tè chắc 2 lần đã bị tràn rồi"
+17314530,MaiPhuong,Mai Phương,21:02 | 14/12/2019,5,Giao hàng nhanh. Đóng gói chắc chắn. Mẫu mã đẹp. Chất lượng tốt. 5 ⭐ cho shop
+17314530,ChanNganKeTo,Chân Ngắn Kệ Tớ,20:49 | 29/10/2019,3,Shop pảo tặng thêm 4c bỉm cùng loại mà ktra lại có mỗi 3c 2 loại lại còn k giống nhau Bỉm mỏng k biết đóng có ra j k nữa
+17314530,LAnPhuOng,LAn PhưƠng,12:25 | 04/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. sp dùng OK lắm bỉm mỏng dùng tốt lắm tks shop nha"
+17314675,HuongLan,Hương Lan,17:40 | 26/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. sản phẩm này mình dùng thấy rẻ lại rất tốt cảm ơn bạn mmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnn"
+17314675,CuYen,Cù Yên,16:54 | 16/01/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. mình đã nhận được hàng đóng sản chắc chắn mình sẽ tiếp tục ủng hộ shop"
+17314675,thuongBui,thương Bùi,20:34 | 16/10/2019,4,vận chuyển hàng rách trầy xước vào trong bỉm luôn đề nghị shop khắc phục tình trạng vận chuyển hàng shop giao ok lắm
+17314675,TranLeTina,Trần Lê Tina,16:19 | 13/09/2019,5,"Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Gửi sản phẩm/vé dịch vụ nhanh. Chất lượng sản phẩm/dịch vụ rất tốt. Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Size nhỏ hơn đợt trước.Nhưng ko sao vẫn cho shop 5 sao vì chị chủ shop cực nhiệt tình.Báo nếu bé ko mặc vừa sẽ đổi lại cho mình và giải thích cho mình hiểu.Gặp như shop khác nhận hàng xong là phủi trách nhiệm rồi đó.Sẽ ủng hộ shop tiếp"
+17314675,CherryPham,Cherry Pham,09:53 | 02/04/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. tuyệt vời,mua lần thứ 10 rồi ,"
+17314675,QuynhNga,Quỳnh Nga,19:13 | 07/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Bỉm nhìn ưng, chủ shop tv nhiệt tình."
+17314675,tu,tú,11:29 | 02/09/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ. tả êm lắm ạ. e sẽ quay lại ủng hộ shop ạ"
+17314675,memilo,mẹ milo,12:07 | 30/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. giao hàng nhanh"
+17314675,nguyenthiquynhtram,nguyễn thị quỳnh trâm,17:42 | 30/11/2019,5,"Đóng gói rách tè le vậy là k hài lòng rồi, cái túi của hãng tã này k còn rồi, đóng túi khác cũng k kỹ càng"
+17314675,ManLamHong,Mãn Lâm Hồng,10:39 | 13/09/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+17426772,PHUONGDOKIM,PHƯỢNG ĐỖ KIM,01:22 | 05/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Tốt nhất rẻ nhất thị trường.. CHẤT LƯỢNG như HUGHES"
+17426772,PHUONGDOKIM,PHƯỢNG ĐỖ KIM,12:54 | 27/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Shop mua bán uy tín thời gian giao hàng nhanh. Giá thì rẻ nhất, chất lượng hàng được đảm bảo và sự cam kết của shop, UY TÍN.. CAM KẾT... của shop...., giúp khách hàng yên tâm mua và gắn bó lâu dài.....!"
+17426772,PHUONGDOKIM,PHƯỢNG ĐỖ KIM,18:28 | 13/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Tã bỉm mỏng, nhưng đựng ( chứa) cả bể nước"
+17426772,phamthihoa,pham thi hoa,10:17 | 01/08/2019,5,bỉm hơi khác so với hình..chữ NANU trước bỉm bị ngược không giống với hình ảnh.bỉm mỏng không biết có pải hàng nhái không.
+17426772,MyNhaLeThi,My Nha Le Thi,18:55 | 25/11/2019,5,"nt shop thì nói bao bì mới. đến khi nhận vẫn là bỉm bao bì cũ. đóng gói hàng đẹp, chắc chắn. giá rẻ"
+17426772,DuongTan,Dương Tân,12:19 | 17/09/2019,4,Gửi sản phẩm/vé dịch vụ nhanh.
+17426772,Longhoang,Long hoang,18:06 | 12/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Hàng mỏng.,thấm hút tốt, giá rẻ. Rrrrrrrrrrrrraaaaaaaaaaaatttttttttooooootttttttt"
+17426772,PHUONGDOKIM,PHƯỢNG ĐỖ KIM,02:59 | 26/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Ttttttttttttttttttooooooooooooottttttttttttt rrrrrrrrrrrrrrrrrrreeeeeeeeeeee"
+17426772,Nguyennguyennguy,Nguyen nguyennguy,16:47 | 31/10/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. Giao hàng quá chậm nhân viên giao hàng ko nhiệt tình
+17426772,HaNguyenThi,Hà Nguyễn Thị,15:28 | 28/09/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+17548239,caothithunga,cao thị thu nga,11:58 | 03/06/2021,5,Chất lượng tuyệt vời.
+17724440,NHUNGNGUYEN,NHUNG NGUYỄN,13:15 | 13/05/2019,4,hàng giống mô tả.tuy nhiên khăn ướt ghi 120 tờ k biết có phải k chứ nhìn hộp khăn cỡ 100 tờ
+17724440,Quynhtrang,Quỳnh trang,18:00 | 13/05/2021,5,Đẹp như mô tả.
+17724440,phamthihuechau,phạm thi huệ châu,15:12 | 03/07/2020,5,Đẹp như mô tả.
+17724440,NguyenNgocAnhThu,Nguyễn Ngọc Anh Thư,11:55 | 18/02/2020,5,
+17724440,huynhmaivo91@gmail.com,huynhmaivo91@gmail.com,20:07 | 11/01/2020,5,
+17724440,MyLe,My Lê,05:50 | 08/01/2020,5,Gửi sản phẩm/vé dịch vụ nhanh.
+17724440,duyennguyen,duyen nguyen,12:54 | 26/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+17724440,DiemThuy,Diễm Thúy,11:29 | 13/06/2019,4,
+17724440,thianLe,thị an Lê,15:37 | 09/05/2019,5,
+17889512,ngothingocbich,ngô thị ngọc bích,12:03 | 28/10/2022,5,"hàng tốt, giá tốt, giao hàng nhanh. Sẽ tiếp tục mua."
+17889512,Tramvumai,Trâm vũ mai,10:31 | 22/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. bé mặc vừa và mềm mại . mình rất ưng. mình sẽ ủng hộ shop"
+17889512,kadet,ka dệt,11:28 | 20/07/2022,5,Đóng gói kỹ lưỡng. Giá tốt. giao hàng hơi lâu
+17889512,HongNguyen,Hong Nguyen,14:57 | 29/11/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt. Tã mỏng mặt êm nè rất hài lòng sẽ ủng hộ shop
+17889512,tramtram,trâm trâm,13:07 | 07/09/2022,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ.
+17889512,PhamThiGiang,Phạm Thị Giang,21:08 | 27/05/2022,5,"Chuyên nghiệp, thân thiện. Chất lượng tuyệt vời. Giá tốt."
+17889512,NguyenThiHoangOanh,Nguyễn Thị Hoàng Oanh,20:19 | 19/08/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. Giao hàng nhanh"
+17889512,leHuyenTrang,lê Huyền Trang,14:50 | 12/12/2019,5,Sp mỏng mềm giống mô tả nhưng k biết độ thấm hút như thế nào vì chưa sử dụng .cảm ơn shop
+17889512,chiTu,chi Tú,06:18 | 11/12/2019,5,"dùng thấy thấm hút tppts, mẫu bỉm lần này đẹp quá em"
+17889512,nguyenthibichngoc,nguyen thi bich ngoc,17:51 | 09/02/2023,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả."
+17889630,chiQuyen,chị Quyên,09:42 | 10/12/2019,5,"bỉm mỏng nhưng thấm huits tốt, dùng rất thích shop nha"
+17889630,phanhieu,phanhieu,11:36 | 06/04/2020,2,
+17964188,NgocMinh,Ngọc Minh,00:05 | 10/03/2021,5,"Chuyên nghiệp, thân thiện. Giá tốt."
+17964188,NgocMinh,Ngọc Minh,06:48 | 09/02/2021,5,"Chuyên nghiệp, thân thiện. Chất lượng tuyệt vời."
+17964188,HangNguyenThi,Hằng Nguyễn Thị,09:51 | 14/12/2020,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Chất lượng sp tốt"
+17964188,NgocMinh,Ngọc Minh,19:19 | 10/12/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả."
+17964188,LaiDucAnh,Lại Đức Anh,15:11 | 03/03/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+17964188,dangvanphuong,đặng văn phường,14:19 | 23/02/2020,5,
+17964188,NinhTuyet,Ninh Tuyết,20:27 | 02/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt.
+17964188,nguyenhuong,nguyễn hương,12:43 | 12/05/2019,5,Ve
+18715047,PhamVanBinh,Phạm Văn Bình,09:41 | 21/03/2023,5,"Giao thiếu hàng trứng tô mầu Shop có ghi giấy để trong gói hàng là liên hệ với shop qua zalo, nhưng không k bạn được ?"
+18715047,vietlan1,vietlan1,22:19 | 24/05/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. good"
+18715047,haopham,hào phạm,14:41 | 02/12/2019,5,
+18715047,BuiThiet,Bùi Thiết,12:42 | 16/10/2019,5,
+18715047,Hai,Hải,09:51 | 30/09/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+18715222,vietlan1,vietlan1,22:19 | 24/05/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Bé nhà em rất thích"
+18813274,SagiNgan,Sagi Ngân,21:52 | 22/01/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Giá tốt. Giao hàng nhanh bất ngờ."
+18813274,honghong,hong hong,13:40 | 04/02/2020,5,
+18815856,phamnhanh,pham nhanh,13:27 | 03/08/2020,5,"a shipper rất lịch sự. mua của shop mẹ Bắp nhìu lần rồi, giá cả hợp lí hàng ok"
+18815856,hoathu,hoà thu,07:06 | 29/05/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng."
+18815856,VanNguyen,Vân Nguyễn,16:44 | 22/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18815856,DinhthingocHuong,Đinh thị ngọc Hường,09:35 | 28/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18815856,sannguyen,san nguyen,09:53 | 02/01/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+18815856,ThuyCaoThi,Thủy Cao Thị,16:11 | 06/07/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18815856,NguyenThiKieudiem,Nguyễn Thị Kiều diễm,16:50 | 24/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18815856,MapkPek,Mapk Pek,15:05 | 21/03/2022,5,
+18815856,LeThanhTruc,Le Thanh Truc,06:37 | 15/02/2022,5,
+18866706,TuanNguyenBao,Tuấn Nguyễn Bảo,12:47 | 21/04/2020,5,"Hsd còn lâu, giá cũng OK hơn so với những shop khác, giao hàng lâu"
+18866706,0***,0***,13:26 | 23/06/2019,5,ok
+18866706,LeGam,Lê Gấm,19:34 | 15/10/2021,3,Chất lượng ổn.
+18866706,LinhHoThi,Lĩnh Hồ Thị,22:33 | 25/09/2021,5,
+18866706,KenHeni,Ken Heni,18:43 | 18/09/2021,5,
+18866706,LeThiNgocLe,Le Thi Ngoc Le,12:57 | 17/09/2021,1,goi hang mat Tham my
+18866706,UyenTrangNguyen,Uyen Trang Nguyen,20:51 | 03/09/2020,5,"Chuyên nghiệp, thân thiện."
+18866706,UyenTrangNguyen,Uyen Trang Nguyen,13:27 | 19/08/2020,5,
+18866706,bichpham,bích phạm,18:13 | 07/08/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+18866706,shop_tony,shop_tony,12:47 | 10/07/2020,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Giá tốt.
+18871025,HuyenKun,Huyền Kun,16:10 | 03/02/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Nhân viên giao hàng nhiệt tình"
+18871025,ThanhSuong,Thanh Sương,10:19 | 08/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18871025,0***,0***,09:50 | 24/10/2019,5,"Gửi sản phẩm/vé dịch vụ nhanh. hàng đẹp, nhưng hơi mỏng chắc pải thay thường xuyên. nhưng k sao nhóc nhà minh hơi hơi là pải thay rồi . chúc shop đắt khách"
+18871025,LYDIEUHIEN,LÝ DIỆU HIỀN,19:01 | 13/08/2019,5,"Hài lòng với shop nè, hết ủng hộ tiếp"
+18871025,QuynhNhiVo,Quỳnh Nhi Võ,21:22 | 06/01/2020,5,"Hàng mới, chính hãng. sẽ ủng hộ tiếp"
+18871025,NguyenVan,Nguyễn Vân,19:27 | 26/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. shipper tận tâm"
+18871025,NguyenVan,Nguyễn Vân,19:17 | 18/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Shipper tận tâm"
+18871025,LaVinhNghi,La Vịnh Nghi,15:03 | 09/11/2019,5,sản phẩm tốt. shop phục vụ nhiệt tình
+18871025,LaVinhNghi,La Vịnh Nghi,11:59 | 31/10/2019,5,sản phẩm đảm bảo chất lượng. Đã mua và sử dụng rất nhiều
+18871025,HoangNgocKieuLinh,Hoàng Ngọc Kiều Linh,08:35 | 20/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18871111,Nguyenhoa,Nguyen hoa,12:36 | 08/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18871111,NguyenDoanMinhTuan,Nguyễn Đoàn Minh Tuấn,07:53 | 22/03/2021,5,
+18871111,TranThiXuanVien,Trần Thị Xuân Viên,15:16 | 24/12/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop phục vụ khá tốt.
+18871111,TranThiXuanVien,Trần Thị Xuân Viên,15:04 | 29/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18871111,VanNguyen,Vân Nguyễn,22:06 | 09/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18871111,ngannguyenngoc,ngan nguyen ngoc,13:34 | 27/06/2019,4,Dc
+18871111,MaiVu,Mai Vũ,17:20 | 26/06/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Gửi sản phẩm/vé dịch vụ nhanh."
+18871111,0***,0***,05:19 | 30/08/2020,5,
+18871111,NguyenThiLeThuy,Nguyễn Thị Lệ Thủy,14:41 | 01/08/2020,5,"Giao hàng nhanh, đúng mô tả."
+18871111,ThoaVoThoa,Thoa Võ Thoa,21:57 | 05/07/2020,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ."
+18871452,nhungphuong,nhung phuong,13:01 | 25/07/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. nay toi moi sd chua biet dc hay k nhung van ung ho shop"
+18871452,Nhan,Nhân,10:34 | 12/09/2019,5,
+18871452,ThaoThanh,Thảo Thanh,17:55 | 11/09/2019,5,
+18871452,LuongTriet,Lương Triết,14:15 | 10/09/2019,5,
+18900224,KimLuyen,Kim Luyến,17:05 | 22/02/2021,4,Chất lượng tốt. vải ok nhưng shop này giao hàng chậm mà nt tư vấn hỏi về đồ thì ko tl
+18900224,NgocTranMy,Ngọc Trần Mỹ,16:05 | 26/09/2020,5,"quần đẹp tốt, shop thân thiện, tu vấn nhiệt tình, tiếp tục ủng hộ shop"
+18900224,VanNguyenHong,Van Nguyen Hong,21:12 | 06/09/2019,4,Sản phẩm/dịch vụ giống mô tả. Chất lượng sản phẩm/dịch vụ khá tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop phục vụ khá tốt. Hang rat dep chuc sop luon luon giu uy tin vay nhe chuc sop ngay cang phat trien nhieu Hon the nua OK
+18900224,hothimui,hồ thị mùi,18:20 | 05/07/2021,5,Đẹp như mô tả. Chất lượng tuyệt vời. Giá tốt.
+18900224,LUTHINGOCTHUY,LỮ THỊ NGỌC THÙY,10:03 | 24/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. sẽ ủng hộ tiếp"
+18900224,thihienvo,thị hiền võ,22:22 | 18/03/2021,5,"Chuyên nghiệp, thân thiện. hàng tốt,giá rẻ"
+18900224,thihienvo,thị hiền võ,22:02 | 05/03/2021,5,Đẹp như mô tả. ok nhé
+18900224,yentay,yến tây,14:37 | 08/02/2021,3,Giao hàng tạm ổn. tè bãi ướt đẫm ? hủy k đc cố lấy
+18900224,NguyenVanTruc,Nguyễn Văn Trúc,09:26 | 05/11/2020,5,"Giao hàng nhanh bất ngờ. hàng ok. bé mặc đc khoảng 1,5 đến 2 giờ đồng hồ."
+18900224,HpTaoDo,Hp Táo Đỏ,19:59 | 04/10/2022,3,
+18904743,ngaNguyen,nga Nguyễn,15:36 | 06/08/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. sẽ ủng hộ tiếp"
+18904743,NGUYENTHITHANHXUAN,NGUYỄN THỊ THANH XUÂN,12:13 | 22/06/2021,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ."
+18904743,nhungvothihong,nhung võ thị hồng,16:01 | 25/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18904743,AnhTran,Ánh Trân,18:00 | 04/06/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18904743,MonsterNTNvlogs,Monster NTN vlogs,19:38 | 04/10/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18904743,yenBao,yến Bảo,15:14 | 28/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18904743,khaNguyenThimong,kha Nguyễn Thị mộng,12:19 | 19/09/2019,5,Gửi sản phẩm/vé dịch vụ nhanh. hàng ok đóng gói kỹ a ship hàng thân thiện.sẽ tiếp tục tiếp tục ủng hộ sendo
+18904743,MonsterNTNvlogs,Monster NTN vlogs,20:03 | 12/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18904743,VoThiHuynhNhu,Võ Thị Huỳnh Như,09:48 | 08/08/2019,5,"Gửi sản phẩm/vé dịch vụ nhanh. Sản phẩm ok, hình như mình mua rất nhiều lần của Shop này rồi."
+18904743,TruongThiGiang,Trương Thị Giang,12:04 | 14/01/2022,4,dùng mô tả
+18905129,nguyentu,nguyễn tú,20:55 | 12/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18905129,tranThaoNguyen,trần Thảo Nguyên,21:23 | 22/09/2021,5,
+18905129,ThuLe,Thư Lê,10:27 | 24/11/2020,5,Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ.
+18905129,tramdinhthjngoctram,trâm đinh thj ngọc trâm,16:02 | 22/11/2019,5,
+18905129,DuongThuy,Dương Thùy,14:08 | 22/10/2019,5,
+18905219,DauTay,Dâu Tây,12:21 | 26/09/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ."
+18905219,NguyenLy,Nguyễn Ly,12:04 | 05/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18905219,HuynhDuc,Huỳnh Đức,15:58 | 28/09/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18905219,MaikieuTrinh,Mai kieu Trinh,11:32 | 09/01/2020,5,
+18905219,NgocThanhNguyen,Ngoc Thanh Nguyen,13:29 | 30/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+18905219,NguyenQuoc,Nguyen Quoc,12:43 | 07/11/2019,5,Gửi sản phẩm/vé dịch vụ nhanh.
+18915950,HuaChi,Hứa Chi,08:46 | 18/04/2022,5,Đóng gói kỹ lưỡng. bỉm mềm mại thấm hút. dễ giặt bé tè nhiều thì sẽ nhanh ướt. thay thường thường cho bé
+18915950,ChauPhanHuynh,Châu Phan Huỳnh,14:30 | 28/02/2021,4,Chất lượng tốt. Chuyên nghiệp. Đóng gói kỹ. Đúng mô tả. Giá hợp lý. Giao hàng nhanh. cám ơn shop đã chọn cho bé quần có họa tiết cưng hết sức. ???
+18915950,ChauPhanHuynh,Châu Phan Huỳnh,11:55 | 24/09/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt. Giao hàng nhanh bất ngờ. Rất hài lòng."
+18915950,NguyenHongngoc,Nguyen Hongngoc,12:21 | 28/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. chưa mặc nên chưa biết nhưng đánh giá trước đi
+18915950,hongngoc,hong ngoc,14:54 | 24/09/2020,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ. minh chua xai nen chua danh ja chat luong van cho 5 sao wan dep"
+18915950,ProTrang,Pro Trang,08:46 | 24/11/2022,5,Đẹp như mô tả.
+18915950,LUTHINGOCTHUY,LỮ THỊ NGỌC THÙY,10:20 | 02/11/2019,5,"Chất lượng sản phẩm/dịch vụ rất tốt. Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18915950,LeThiHongYen,Lê Thị Hồng Yến,12:18 | 19/09/2021,5,Đẹp như mô tả. Chất lượng tuyệt vời. Giá tốt.
+18915950,trucmainguyen,truc mai nguyen,04:31 | 24/08/2022,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giá tốt."
+18915950,mytrang,mytrang,09:10 | 09/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. hàng rất OK cám ơn sốp"
+18919141,chuHoa,chú Hòa,17:29 | 15/04/2021,5,"Tấm lót dai, dễ dùng, dễ thấm hút, nhưng giắ giảm đi thì tốt."
+18919141,vuthixuanlan,vu thi xuan lan,20:52 | 09/07/2021,5,
+18919141,vuthixuanlan,vu thi xuan lan,20:58 | 26/05/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Chất lượng tuyệt vời. Giá tốt."
+18919141,NguyenTuanLinh,Nguyễn Tuấn Linh,13:10 | 10/03/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+18919141,thuphuong,thu phương,13:19 | 21/02/2020,5,"Chất lượng sản phẩm/dịch vụ rất tốt. Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+18919141,NgaDuong,Nga Dương,11:59 | 14/08/2019,5,Sản phẩm tốt vượt mong đợi
+18919141,ThuyDuong,Thùy Dương,17:18 | 26/07/2019,5,
+18923303,nguyenthivan,nguyễn thị vân,15:51 | 06/01/2020,5,
+19023410,vophuong,võ phương,11:24 | 06/11/2019,5,
+19023410,HaThiThuLe,Hà Thị Thu Lê,14:28 | 18/06/2021,5,
+19023410,BinhMinh,Bình Minh,15:55 | 17/03/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả. Giá tốt."
+19023410,TranThanhHuong,Trần Thanh Hương,16:02 | 27/02/2021,5,Chất lượng tuyệt vời.
+19070420,socsoc,soc soc,10:26 | 24/01/2021,5,"Chuyên nghiệp, thân thiện. Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ."
+19070420,VanVoMombimsua,Vân Võ Mombĩmsữa,09:21 | 25/09/2020,5,Ok giá tốt
+19070420,VuNguyenTuanAnh,Vũ Nguyễn Tuấn Anh,21:26 | 10/07/2020,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Chất lượng tuyệt vời. Giao hàng nhanh bất ngờ."
+19070420,buithingocanh,bùi thị ngọc ánh,14:41 | 20/02/2021,5,Đóng gói kỹ lưỡng.
+19070420,QuyenNguyenLong,Quyền Nguyễn Long,09:55 | 28/10/2020,5,"Chuyên nghiệp, thân thiện. Giao hàng nhanh bất ngờ."
+19070420,VuNguyenTuanAnh,Vũ Nguyễn Tuấn Anh,21:48 | 11/10/2020,5,"Chuyên nghiệp, thân thiện. Giao hàng nhanh bất ngờ."
+19070420,phuthuynho,phù thủy nhỏ,12:41 | 28/06/2020,5,
+19070420,socsoc,soc soc,15:36 | 26/03/2020,5,
+19127410,tranthinhung,trần thị nhung,10:00 | 26/06/2020,5,Đẹp như mô tả. Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ.
+19127410,HuongNguyen,Hương Nguyễn,09:31 | 07/12/2019,5,
+19127410,HangHang,Hang Hang,05:36 | 30/11/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+19127410,TrieuSue,Trieu Sue,12:11 | 10/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19127410,HuongNguyen,Hương Nguyễn,10:32 | 15/10/2019,5,"Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19127410,trungthanh,trung thành,11:06 | 14/10/2019,5,"Shop tư vấn, hướng dẫn cực kỳ nhiệt tình. Chất lượng sản phẩm/dịch vụ rất tốt."
+19127410,HueHoang,Huế Hoàng,23:26 | 20/09/2019,5,
+19127410,thanhnguyenthi,thanh nguyễn thị,17:01 | 15/08/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt.
+19147069,Kieuthiuyen,Kiều thị uyên,11:19 | 06/03/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Đã nhận đc hàng. SP thấm hút tốt . e bé không bị hăm
+19147069,M.Huyen,M. Huyen,21:46 | 24/11/2019,5,"đóng gói cẩn thận, bỉm mềm, date mới, rất ok, đáng để mua!"
+19147069,M.Huyen,M. Huyen,09:47 | 03/03/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+19147069,nguyenthihai,nguyên thi hai,12:59 | 15/10/2019,5,sản phẩm giống mô tả và tốt hơn mong đợi
+19147069,nguyen,nguyen,14:06 | 27/07/2019,4,Bỉm sản xuất từ 2018. Cũng được
+19147069,LeHoa,Lê Hoa,05:44 | 21/06/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. sản phẩm dùng thích
+19147069,trantungDuong,trần tùng Dương,07:23 | 30/05/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19147069,HoangKim,Hoàng Kim,20:23 | 12/01/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+19147069,DoThanhThuy,Đỗ Thanh Thủy,11:22 | 02/01/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Gửi sản phẩm/vé dịch vụ nhanh.
+19147069,DoThanhThuy,Đỗ Thanh Thủy,11:57 | 13/12/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+19159118,LeKhanh,Le Khanh,22:23 | 13/09/2020,2,đặc ta xxxl ma giao ta.Bên trong nho như zai L? ta sai xxxl ben trai =€ ma nho sai L nua sau ma sai đây.??
+19159118,AnAn,An An,21:54 | 24/08/2019,1,"Sản phẩm/dịch vụ hoàn toàn khác mô tả. Đóng gói hàng không cẩn thận/Vé dịch vụ rách, mờ, không rõ thông tin. Chất lượng sản phẩm/dịch vụ rất tệ. Đặt combo 100 bỉm mà giao chỉ 88 miếng , coi như tôi bố thí cho 12 miếng đấy . Chưa nói đến chất lượng bỉm mỏng, thấm hút kém. Chỉ nói đến việc giao hàng ba trợn ba trạo , ăn bớt xén của khách hàng là đã muốn tổng sỉ ."
+19159118,NguyenTruongGiang,Nguyễn Trường Giang,15:10 | 04/05/2023,5,cho 5 sao mà gửi tin nhắn báo sp lỗi nhiều mà shop chả có phản hồi. chắc không mua ủng hộ tiếp tục được.
+19159118,ThuThu,Thư Thư,12:43 | 16/04/2020,5,sản phẩm tốt.shop uy tín.lần trước thiếu.lần này shop đã bù thêm sẽ ủng hộ shop nhiều.
+19159118,LeKhanh,Le Khanh,18:04 | 10/08/2020,5,gia tiên hợp voi sph .san phẩm ok...
+19159118,NguyenTruongGiang,Nguyễn Trường Giang,10:41 | 21/03/2023,5,Đẹp như mô tả.
+19159118,Hoa,Hoa,22:07 | 13/01/2023,5,Đóng gói kỹ lưỡng.
+19159118,duyennguyenthi,duyên nguyễn thị,22:05 | 24/07/2019,5,tốt. gửi nhanh. mềm lắm.
+19159118,KieuLong,Kiều Long,04:43 | 31/05/2023,5,
+19159118,KieuLong,Kiều Long,19:56 | 09/05/2023,5,
+19292212,LanNguyen,Lan Nguyễn,17:50 | 14/02/2020,4,Sản phẩm/dịch vụ giống mô tả. Gửi sản phẩm/vé dịch vụ nhanh. Đóng gói hàng chắc chắn tuy nhiên bề ngoài bao bì bị bẩn
+19292212,TranHuyen,Trần Huyền,19:56 | 20/11/2019,5,"Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19292212,PHAMPhuong,PHAM Phuong,12:37 | 18/09/2021,5,
+19292212,chuvankhoa,chu van khoa,19:23 | 06/09/2019,5,Chất lượng sản phẩm/dịch vụ rất tốt.
+19292212,ChuVanHoc,Chu Văn Học,14:08 | 30/07/2019,5,Gửi sản phẩm/vé dịch vụ nhanh.
+19292212,chuvankhoa,chu van khoa,19:06 | 23/07/2019,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi.
+19292212,ChuVanHoc,Chu Văn Học,13:49 | 14/07/2019,5,Gửi sản phẩm/vé dịch vụ nhanh.
+19292387,PHAMANHNGOC,PHẠM ANH NGỌC,15:39 | 02/02/2021,5,"Chuyên nghiệp, thân thiện. Đẹp như mô tả."
+19292387,hoanguyenthi,hòa nguyễn thị,17:40 | 06/04/2020,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19442403,nambao,nam bao,17:07 | 06/12/2022,5,
+19442403,QuynhBui,Quỳnh Bùi,18:10 | 01/07/2021,5,"Chuyên nghiệp, thân thiện. Đóng gói kỹ lưỡng. Giá tốt. Giao hàng nhanh bất ngờ."
+19442403,Ngothivy,Ngô thị vy,08:53 | 04/12/2020,5,Đóng gói kỹ lưỡng.
+19442403,giangnguyenthi,giang nguyễn thị,19:37 | 06/03/2020,5,bỉm viêt nam dày from nhỏ
+19442403,PhuongNgoViet,Phương Ngô Việt,21:58 | 02/02/2020,5,Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh.
+19442403,PhuongNgoViet,Phương Ngô Việt,08:29 | 22/11/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. Chất lượng sản phẩm/dịch vụ rất tốt. Gửi sản phẩm/vé dịch vụ nhanh. Shop tư vấn, hướng dẫn cực kỳ nhiệt tình."
+19544165,SinhTrinh,Sinh Trịnh,11:04 | 10/07/2020,4,Chất lượng tốt. Giao hàng nhanh. tả mỏng hơn nhiều hạt lợn cơn so với các Shop khác mình mua hi vọng con mặc không bị dị ứng
+19544165,DangMai,Đặng Mai,13:21 | 27/12/2019,5,"Sản phẩm/dịch vụ giống mô tả và tốt hơn mong đợi. shop chuẩn bị hàng rất nhanh và chu đáo, sản phẩm của Thạch Thảo luôn làm mình hài lòng, và những ưu ái của Sendo dành cho khách hàng luôn mang đến cho mình trải nghiệm mua sắm thú vị. yêu sendo.❤"
+19544165,NguyenUyen,Nguyễn Uyên,12:04 | 27/06/2021,5,Đóng gói kỹ lưỡng.
