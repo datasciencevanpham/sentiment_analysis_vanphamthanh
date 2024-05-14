@@ -1483,7 +1483,7 @@ elif choice == 'New Predictions':
         edited_df = st.data_editor(data2, num_rows="dynamic", column_config = config)
         # # file new chuẩn chỉnh
         edited_df = pd.DataFrame(edited_df)
-        edited_df.iloc[:, 5] = edited_df.iloc[:, 5].astype('int')
+        edited_df.iloc[:, 4] = edited_df.iloc[:, 4].astype('int')
         st.dataframe(dataframe_explorer(edited_df), use_container_width=True)
 
         # Display the number of transactions after editing
